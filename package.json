@@ -1,0 +1,11 @@
+{
+  "name": "mitom-diagram",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix src/client/web install",
+    "dev": "npm --prefix src/client/web run dev",
+    "build": "make build",
+    "start": "make run",
+    "test": "make test"
+  }
+}

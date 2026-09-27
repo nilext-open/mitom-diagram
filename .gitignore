@@ -1,0 +1,6 @@
+bin/
+src/daemon/bin/
+src/client/web/node_modules/
+src/client/web/dist/
+data/
+node_modules/
